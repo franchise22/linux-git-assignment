@@ -8,3 +8,4 @@ git add Moves changes from the working directory to the staging area
 git commit Takes the staged snapshot and commits it to the project history.
 git merge is A powerful way to integrate changes from divergent branches.
 git branch lets you create isolated development environments within a single repository.
+git checkout  the means to navigate existing branches.
