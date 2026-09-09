@@ -6,3 +6,4 @@ git init initializes a new Git repository.
 git status displays the state of the working directory and the staged snapshot.
 git add Moves changes from the working directory to the staging area
 git commit Takes the staged snapshot and commits it to the project history.
+git merge is A powerful way to integrate changes from divergent branches.
