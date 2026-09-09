@@ -10,3 +10,4 @@ git merge is A powerful way to integrate changes from divergent branches.
 git branch lets you create isolated development environments within a single repository.
 git checkout  the means to navigate existing branches.
 git push the opposite of fetching (with a few caveats). It lets you move a local branch to another repository, which serves as a convenient way to publish contributions.
+git pull: fetches changes from a remote repository and immediately merges them into your current branch
